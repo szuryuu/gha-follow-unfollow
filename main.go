@@ -2,7 +2,6 @@ package main
 
 import (
 	"context"
-	"fmt"
 	"log"
 	"os"
 
@@ -38,8 +37,9 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
+	log.Println("Followers:")
 	for _, follower := range followers {
-		fmt.Println(follower.GetLogin())
+		// fmt.Println(follower.GetLogin())
 		log.Println(follower.GetLogin())
 	}
 
@@ -47,8 +47,9 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
+	log.Println("Following:")
 	for _, following := range following {
-		fmt.Println(following.GetLogin())
+		// fmt.Println(following.GetLogin())
 		log.Println(following.GetLogin())
 	}
 }
