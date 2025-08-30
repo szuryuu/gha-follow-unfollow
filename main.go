@@ -84,6 +84,7 @@ func main() {
 	if err != nil {
 		log.Fatalf("Failed to get followers: %v", err)
 	}
+	log.Println("Followers:")
 	for _, follower := range followers {
 		log.Println(follower.GetLogin())
 	}
@@ -92,6 +93,7 @@ func main() {
 	if err != nil {
 		log.Fatalf("Failed to get following: %v", err)
 	}
+	log.Println("Following:")
 	for _, following := range following {
 		log.Println(following.GetLogin())
 	}
