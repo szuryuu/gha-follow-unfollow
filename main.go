@@ -115,6 +115,18 @@ func main() {
 		log.Println(user)
 	}
 
+	var needUnfollow []string
+	for _, f := range following {
+		if !followingMap[f.GetLogin()] {
+			needUnfollow = append(needUnfollow, f.GetLogin())
+		}
+	}
+
+	log.Println("Need to unfollow (following you don't follow back):", len(needUnfollow))
+	for _, user := range needUnfollow {
+		log.Println(user)
+	}
+
 	log.Println("Followers:", len(followers))
 	log.Println("Following:", len(following))
 }
