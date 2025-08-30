@@ -1,11 +1,13 @@
-2025/08/30 09:14:33 Need to follow back (followers you don't follow): 1
-2025/08/30 09:14:33 bookofvengeance
-2025/08/30 09:14:33 Need to unfollow (following you don't follow back): 1
-2025/08/30 09:14:33 rdn016
-2025/08/30 09:14:33 Following back: bookofvengeance
-2025/08/30 09:14:35 Unfollowing: rdn016
-2025/08/30 09:14:36 Followers: 149
-2025/08/30 09:14:36 Following: 149
-Generated on: Sat Aug 30 09:14:36 UTC 2025
+2025/08/30 09:15:57 Need to follow back (followers you don't follow): 1
+2025/08/30 09:15:57 bookofvengeance
+2025/08/30 09:15:57 Need to unfollow (following you don't follow back): 2
+2025/08/30 09:15:57 bouvens
+2025/08/30 09:15:57 qqgeogor
+2025/08/30 09:15:57 Following back: bookofvengeance
+2025/08/30 09:15:59 Unfollowing: bouvens
+2025/08/30 09:16:00 Unfollowing: qqgeogor
+2025/08/30 09:16:01 Followers: 149
+2025/08/30 09:16:01 Following: 150
+Generated on: Sat Aug 30 09:16:01 UTC 2025
 Repository: szuryuu/gha-follow-unfollow
-Commit: 1668404d353a3e72ca43fa10e5a159af751ecc1b
+Commit: d5d6b4ce97744d1aa3b57c6da223d7505788ee84
