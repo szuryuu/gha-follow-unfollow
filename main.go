@@ -84,23 +84,20 @@ func main() {
 	if err != nil {
 		log.Fatalf("Failed to get followers: %v", err)
 	}
-	// log.Println("Followers:")
-	// for _, follower := range followers {
-	// 	log.Println(follower.GetLogin())
-	// }
 
 	following, err := client.GetAllFollowing(ctx, githubUsername)
 	if err != nil {
 		log.Fatalf("Failed to get following: %v", err)
 	}
-	// log.Println("Following:")
-	// for _, following := range following {
-	// 	log.Println(following.GetLogin())
-	// }
 
 	followingMap := make(map[string]bool)
 	for _, f := range following {
 		followingMap[f.GetLogin()] = true
+	}
+
+	followerMap := make(map[string]bool)
+	for _, f := range followers {
+		followerMap[f.GetLogin()] = true
 	}
 
 	var needFollow []string
@@ -110,16 +107,16 @@ func main() {
 		}
 	}
 
+	var needUnfollow []string
+	for _, f := range following {
+		if !followerMap[f.GetLogin()] {
+			needUnfollow = append(needUnfollow, f.GetLogin())
+		}
+	}
+
 	log.Println("Need to follow back (followers you don't follow):", len(needFollow))
 	for _, user := range needFollow {
 		log.Println(user)
-	}
-
-	var needUnfollow []string
-	for _, f := range following {
-		if !followingMap[f.GetLogin()] {
-			needUnfollow = append(needUnfollow, f.GetLogin())
-		}
 	}
 
 	log.Println("Need to unfollow (following you don't follow back):", len(needUnfollow))
