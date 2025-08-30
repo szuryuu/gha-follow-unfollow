@@ -1,18 +1,96 @@
-2025/08/30 09:38:29 ==========================================
-2025/08/30 09:38:29 GitHub Follow/Unfollow Bot - 2025-08-30 09:38:29
-2025/08/30 09:38:29 ==========================================
-2025/08/30 09:38:30 Total Followers: 149
-2025/08/30 09:38:30 Total Following: 148
-2025/08/30 09:38:30 Need to follow back: 1
-2025/08/30 09:38:30 Need to unfollow: 0
-2025/08/30 09:38:30 ------------------------------------------
-2025/08/30 09:38:30 Need to follow back (followers you don't follow): 1
-2025/08/30 09:38:30 bookofvengeance
-2025/08/30 09:38:30 ------------------------------------------
-2025/08/30 09:38:30 Need to unfollow (following you don't follow back): 0
-2025/08/30 09:38:30 ------------------------------------------
-2025/08/30 09:38:30 Following back: bookofvengeance
-2025/08/30 09:38:32 ------------------------------------------
-Generated on: Sat Aug 30 09:38:32 UTC 2025
+2025/08/30 17:11:41 ==========================================
+2025/08/30 17:11:41 GitHub Follow/Unfollow Bot - 2025-08-30 17:11:41
+2025/08/30 17:11:41 ==========================================
+2025/08/30 17:11:42 Total Followers: 150
+2025/08/30 17:11:42 Total Following: 188
+2025/08/30 17:11:42 Need to follow back: 1
+2025/08/30 17:11:42 Need to unfollow: 39
+2025/08/30 17:11:42 ------------------------------------------
+2025/08/30 17:11:42 Need to follow back (followers you don't follow): 1
+2025/08/30 17:11:42 bookofvengeance
+2025/08/30 17:11:42 ------------------------------------------
+2025/08/30 17:11:42 Need to unfollow (following you don't follow back): 39
+2025/08/30 17:11:42 icolomina
+2025/08/30 17:11:42 freyacodes
+2025/08/30 17:11:42 ekanur
+2025/08/30 17:11:42 nucther
+2025/08/30 17:11:42 therusetiawan
+2025/08/30 17:11:42 Erisa
+2025/08/30 17:11:42 nikkozu
+2025/08/30 17:11:42 miukyo
+2025/08/30 17:11:42 Moebits
+2025/08/30 17:11:42 hasanberkyigit
+2025/08/30 17:11:42 kyorakudev
+2025/08/30 17:11:42 suyeoniii
+2025/08/30 17:11:42 AkuSeorangManusia
+2025/08/30 17:11:42 inijulian
+2025/08/30 17:11:42 Shigatsu83
+2025/08/30 17:11:42 upilkecebong
+2025/08/30 17:11:42 bytexenon
+2025/08/30 17:11:42 youngwiez
+2025/08/30 17:11:42 ISONIC0788
+2025/08/30 17:11:42 dosqas
+2025/08/30 17:11:42 tears6666
+2025/08/30 17:11:42 adipiscingelite
+2025/08/30 17:11:42 Say1ddd
+2025/08/30 17:11:42 NaufalikhoAbyan
+2025/08/30 17:11:42 Shifanabila
+2025/08/30 17:11:42 ZizyLiz
+2025/08/30 17:11:42 jagadrenata
+2025/08/30 17:11:42 evyanw
+2025/08/30 17:11:42 rdn016
+2025/08/30 17:11:42 anaseaq
+2025/08/30 17:11:42 mamatqurtifa
+2025/08/30 17:11:42 zylpheon
+2025/08/30 17:11:42 akbaradhakw
+2025/08/30 17:11:42 PasaYB
+2025/08/30 17:11:42 Laznology
+2025/08/30 17:11:42 rufflekies
+2025/08/30 17:11:42 byntangxyz
+2025/08/30 17:11:42 aleafarrel-id
+2025/08/30 17:11:42 frrlrbn
+2025/08/30 17:11:42 ------------------------------------------
+2025/08/30 17:11:42 Following back: bookofvengeance
+2025/08/30 17:11:46 ------------------------------------------
+2025/08/30 17:11:46 Unfollowing: icolomina
+2025/08/30 17:11:50 Unfollowing: freyacodes
+2025/08/30 17:11:54 Unfollowing: ekanur
+2025/08/30 17:11:58 Unfollowing: nucther
+2025/08/30 17:12:02 Unfollowing: therusetiawan
+2025/08/30 17:12:07 Unfollowing: Erisa
+2025/08/30 17:12:11 Unfollowing: nikkozu
+2025/08/30 17:12:15 Unfollowing: miukyo
+2025/08/30 17:12:19 Unfollowing: Moebits
+2025/08/30 17:12:23 Unfollowing: hasanberkyigit
+2025/08/30 17:12:27 Unfollowing: kyorakudev
+2025/08/30 17:12:31 Unfollowing: suyeoniii
+2025/08/30 17:12:36 Unfollowing: AkuSeorangManusia
+2025/08/30 17:12:40 Unfollowing: inijulian
+2025/08/30 17:12:44 Unfollowing: Shigatsu83
+2025/08/30 17:12:48 Unfollowing: upilkecebong
+2025/08/30 17:12:52 Unfollowing: bytexenon
+2025/08/30 17:12:56 Unfollowing: youngwiez
+2025/08/30 17:13:00 Unfollowing: ISONIC0788
+2025/08/30 17:13:04 Unfollowing: dosqas
+2025/08/30 17:13:09 Unfollowing: tears6666
+2025/08/30 17:13:13 Unfollowing: adipiscingelite
+2025/08/30 17:13:17 Unfollowing: Say1ddd
+2025/08/30 17:13:21 Unfollowing: NaufalikhoAbyan
+2025/08/30 17:13:25 Unfollowing: Shifanabila
+2025/08/30 17:13:29 Unfollowing: ZizyLiz
+2025/08/30 17:13:33 Unfollowing: jagadrenata
+2025/08/30 17:13:38 Unfollowing: evyanw
+2025/08/30 17:13:42 Unfollowing: rdn016
+2025/08/30 17:13:46 Unfollowing: anaseaq
+2025/08/30 17:13:50 Unfollowing: mamatqurtifa
+2025/08/30 17:13:54 Unfollowing: zylpheon
+2025/08/30 17:13:58 Unfollowing: akbaradhakw
+2025/08/30 17:14:02 Unfollowing: PasaYB
+2025/08/30 17:14:06 Unfollowing: Laznology
+2025/08/30 17:14:11 Unfollowing: rufflekies
+2025/08/30 17:14:15 Unfollowing: byntangxyz
+2025/08/30 17:14:19 Unfollowing: aleafarrel-id
+2025/08/30 17:14:23 Unfollowing: frrlrbn
+Generated on: Sat Aug 30 17:14:27 UTC 2025
 Repository: szuryuu/gha-follow-unfollow
-Commit: f7f9d5a2b950fce9a5bb5b1e35c6070c5d3022dd
+Commit: 221df5b26d8265a0ec8973ac665f7503c0e1404e
