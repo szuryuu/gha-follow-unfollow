@@ -4,6 +4,7 @@ import (
 	"context"
 	"log"
 	"os"
+	"time"
 
 	"github.com/google/go-github/v74/github"
 )
@@ -68,6 +69,11 @@ func (gc *GithubClient) GetAllFollowing(ctx context.Context, username string) ([
 	return allFollowing, nil
 }
 
+func (gc *GithubClient) FollowPeople(ctx context.Context, username string) error {
+	_, err := gc.gc.Users.Follow(ctx, username)
+	return err
+}
+
 func main() {
 	file, err := os.Create("log.txt")
 	if err != nil {
@@ -122,6 +128,15 @@ func main() {
 	log.Println("Need to unfollow (following you don't follow back):", len(needUnfollow))
 	for _, user := range needUnfollow {
 		log.Println(user)
+	}
+
+	for _, user := range needFollow {
+		log.Printf("Following back: %s", user)
+		if err := client.FollowPeople(ctx, user); err != nil {
+			log.Printf("Failed to follow %s: %v", user, err)
+		}
+
+		time.Sleep(1 * time.Second)
 	}
 
 	log.Println("Followers:", len(followers))
