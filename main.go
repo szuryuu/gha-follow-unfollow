@@ -74,6 +74,11 @@ func (gc *GithubClient) FollowPeople(ctx context.Context, username string) error
 	return err
 }
 
+func (gc *GithubClient) UnfollowPeople(ctx context.Context, username string) error {
+	_, err := gc.gc.Users.Unfollow(ctx, username)
+	return err
+}
+
 func main() {
 	file, err := os.Create("log.txt")
 	if err != nil {
@@ -134,6 +139,15 @@ func main() {
 		log.Printf("Following back: %s", user)
 		if err := client.FollowPeople(ctx, user); err != nil {
 			log.Printf("Failed to follow %s: %v", user, err)
+		}
+
+		time.Sleep(1 * time.Second)
+	}
+
+	for _, user := range needUnfollow {
+		log.Printf("Unfollowing: %s", user)
+		if err := client.UnfollowPeople(ctx, user); err != nil {
+			log.Printf("Failed to unfollow %s: %v", user, err)
 		}
 
 		time.Sleep(1 * time.Second)
