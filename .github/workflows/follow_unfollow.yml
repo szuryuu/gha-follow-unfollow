@@ -18,3 +18,19 @@ jobs:
         run: go run main.go
         env:
           MY_PAT: ${{ secrets.PAT }}
+
+      - name: Add timestamp to log
+        run: |
+          echo "Generated on: $(date)" >> log.txt
+          echo "Repository: ${{ github.repository }}" >> log.txt
+          echo "Commit: ${{ github.sha }}" >> log.txt
+
+      - name: Commit and push log file
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add log.txt
+          git diff --staged --quiet || git commit -m "Update followers/following log - $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
