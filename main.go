@@ -88,6 +88,18 @@ func main() {
 		log.Println(following.GetLogin())
 	}
 
+	mutuals := make(map[string]bool)
+	for _, f := range followers {
+		mutuals[f.GetLogin()] = true
+	}
+
+	log.Println("Mutuals:")
+	for _, f := range following {
+		if mutuals[f.GetLogin()] {
+			log.Println(f.GetLogin())
+		}
+	}
+
 	log.Println("Followers:", len(followers))
 	log.Println("Following:", len(following))
 }
