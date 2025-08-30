@@ -3,6 +3,7 @@ package main
 import (
 	"context"
 	"log"
+	"math/rand"
 	"os"
 	"time"
 
@@ -11,6 +12,7 @@ import (
 
 const (
 	githubUsername = "szuryuu"
+	limit          = 50
 )
 
 type GithubClient struct {
@@ -90,6 +92,11 @@ func main() {
 
 	ctx := context.Background()
 	client := NewGithubClient()
+	sleepTime := time.Duration(2+rand.Intn(3)) * time.Second
+
+	log.Println("==========================================")
+	log.Printf("GitHub Follow/Unfollow Bot - %s", time.Now().Format("2006-01-02 15:04:05"))
+	log.Println("==========================================")
 
 	followers, err := client.GetAllFollowers(ctx, githubUsername)
 	if err != nil {
@@ -125,6 +132,12 @@ func main() {
 		}
 	}
 
+	log.Println("------------------------------------------")
+	log.Printf("Total Followers: %d", len(followers))
+	log.Printf("Total Following: %d", len(following))
+	log.Printf("Need to follow back: %d", len(needFollow))
+	log.Printf("Need to unfollow: %d", len(needUnfollow))
+
 	log.Println("Need to follow back (followers you don't follow):", len(needFollow))
 	for _, user := range needFollow {
 		log.Println(user)
@@ -135,24 +148,35 @@ func main() {
 		log.Println(user)
 	}
 
-	for _, user := range needFollow {
+	for i, user := range needFollow {
+		if i >= limit {
+			log.Printf("Reached max follow limit (%d), skipping remaining %d users", limit, len(needFollow)-i)
+			log.Printf("Total followers to follow back: %d (will process %d, skip %d)",
+				len(needFollow), limit, len(needFollow)-limit)
+			break
+		}
+
 		log.Printf("Following back: %s", user)
 		if err := client.FollowPeople(ctx, user); err != nil {
 			log.Printf("Failed to follow %s: %v", user, err)
 		}
 
-		time.Sleep(1 * time.Second)
+		time.Sleep(sleepTime)
 	}
 
-	for _, user := range needUnfollow {
+	for i, user := range needUnfollow {
+		if i >= limit {
+			log.Printf("Reached max unfollow limit (%d), skipping remaining %d users", limit, len(needUnfollow)-i)
+			log.Printf("Total followers to unfollow back: %d (will process %d, skip %d)",
+				len(needUnfollow), limit, len(needUnfollow)-limit)
+			break
+		}
+
 		log.Printf("Unfollowing: %s", user)
 		if err := client.UnfollowPeople(ctx, user); err != nil {
 			log.Printf("Failed to unfollow %s: %v", user, err)
 		}
 
-		time.Sleep(1 * time.Second)
+		time.Sleep(sleepTime)
 	}
-
-	log.Println("Followers:", len(followers))
-	log.Println("Following:", len(following))
 }
