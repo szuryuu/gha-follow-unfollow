@@ -71,9 +71,10 @@ func (gc *GithubClient) GetAllFollowing(ctx context.Context, username string) ([
 func main() {
 	ctx := context.Background()
 	client := NewGithubClient()
+
 	followers, err := client.GetAllFollowers(ctx, githubUsername)
 	if err != nil {
-		panic(err)
+		log.Fatalf("Failed to get followers: %v", err)
 	}
 	log.Println("Followers:", len(followers))
 	for _, follower := range followers {
@@ -82,7 +83,7 @@ func main() {
 
 	following, err := client.GetAllFollowing(ctx, githubUsername)
 	if err != nil {
-		panic(err)
+		log.Fatalf("Failed to get following: %v", err)
 	}
 	log.Println("Following:", len(following))
 	for _, following := range following {
