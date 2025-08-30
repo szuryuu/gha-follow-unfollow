@@ -84,30 +84,35 @@ func main() {
 	if err != nil {
 		log.Fatalf("Failed to get followers: %v", err)
 	}
-	log.Println("Followers:")
-	for _, follower := range followers {
-		log.Println(follower.GetLogin())
-	}
+	// log.Println("Followers:")
+	// for _, follower := range followers {
+	// 	log.Println(follower.GetLogin())
+	// }
 
 	following, err := client.GetAllFollowing(ctx, githubUsername)
 	if err != nil {
 		log.Fatalf("Failed to get following: %v", err)
 	}
-	log.Println("Following:")
-	for _, following := range following {
-		log.Println(following.GetLogin())
-	}
+	// log.Println("Following:")
+	// for _, following := range following {
+	// 	log.Println(following.GetLogin())
+	// }
 
-	mutuals := make(map[string]bool)
-	for _, f := range followers {
-		mutuals[f.GetLogin()] = true
-	}
-
-	log.Println("Mutuals:")
+	followingMap := make(map[string]bool)
 	for _, f := range following {
-		if mutuals[f.GetLogin()] {
-			log.Println(f.GetLogin())
+		followingMap[f.GetLogin()] = true
+	}
+
+	var needFollow []string
+	for _, f := range followers {
+		if !followingMap[f.GetLogin()] {
+			needFollow = append(needFollow, f.GetLogin())
 		}
+	}
+
+	log.Println("Need to follow back (followers you don't follow):", len(needFollow))
+	for _, user := range needFollow {
+		log.Println(user)
 	}
 
 	log.Println("Followers:", len(followers))
