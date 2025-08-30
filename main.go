@@ -30,26 +30,62 @@ func (gc *GithubClient) ListFollowing(ctx context.Context, username string, opts
 	return gc.gc.Users.ListFollowing(ctx, username, opts)
 }
 
+func (gc *GithubClient) GetAllFollowers(ctx context.Context, username string) ([]*github.User, error) {
+	var allFollowers []*github.User
+	opts := &github.ListOptions{PerPage: 100}
+
+	for {
+		followers, resp, err := gc.ListFollowers(ctx, username, opts)
+		if err != nil {
+			return nil, err
+		}
+		allFollowers = append(allFollowers, followers...)
+		if resp.NextPage == 0 {
+			break
+		}
+		opts.Page = resp.NextPage
+	}
+
+	return allFollowers, nil
+}
+
+func (gc *GithubClient) GetAllFollowing(ctx context.Context, username string) ([]*github.User, error) {
+	var allFollowing []*github.User
+	opts := &github.ListOptions{PerPage: 100}
+
+	for {
+		following, resp, err := gc.ListFollowing(ctx, username, opts)
+		if err != nil {
+			return nil, err
+		}
+		allFollowing = append(allFollowing, following...)
+		if resp.NextPage == 0 {
+			break
+		}
+		opts.Page = resp.NextPage
+	}
+
+	return allFollowing, nil
+}
+
 func main() {
 	ctx := context.Background()
 	client := NewGithubClient()
-	followers, _, err := client.ListFollowers(ctx, githubUsername, &github.ListOptions{})
+	followers, err := client.GetAllFollowers(ctx, githubUsername)
 	if err != nil {
 		panic(err)
 	}
 	log.Println("Followers:")
 	for _, follower := range followers {
-		// fmt.Println(follower.GetLogin())
 		log.Println(follower.GetLogin())
 	}
 
-	following, _, err := client.ListFollowing(ctx, githubUsername, &github.ListOptions{})
+	following, err := client.GetAllFollowing(ctx, githubUsername)
 	if err != nil {
 		panic(err)
 	}
 	log.Println("Following:")
 	for _, following := range following {
-		// fmt.Println(following.GetLogin())
 		log.Println(following.GetLogin())
 	}
 }
