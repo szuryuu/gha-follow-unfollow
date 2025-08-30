@@ -132,22 +132,24 @@ func main() {
 		}
 	}
 
-	log.Println("------------------------------------------")
 	log.Printf("Total Followers: %d", len(followers))
 	log.Printf("Total Following: %d", len(following))
 	log.Printf("Need to follow back: %d", len(needFollow))
 	log.Printf("Need to unfollow: %d", len(needUnfollow))
 
+	log.Println("------------------------------------------")
 	log.Println("Need to follow back (followers you don't follow):", len(needFollow))
 	for _, user := range needFollow {
 		log.Println(user)
 	}
 
+	log.Println("------------------------------------------")
 	log.Println("Need to unfollow (following you don't follow back):", len(needUnfollow))
 	for _, user := range needUnfollow {
 		log.Println(user)
 	}
 
+	log.Println("------------------------------------------")
 	for i, user := range needFollow {
 		if i >= limit {
 			log.Printf("Reached max follow limit (%d), skipping remaining %d users", limit, len(needFollow)-i)
@@ -164,6 +166,7 @@ func main() {
 		time.Sleep(sleepTime)
 	}
 
+	log.Println("------------------------------------------")
 	for i, user := range needUnfollow {
 		if i >= limit {
 			log.Printf("Reached max unfollow limit (%d), skipping remaining %d users", limit, len(needUnfollow)-i)
