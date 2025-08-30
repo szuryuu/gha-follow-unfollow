@@ -75,7 +75,7 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	log.Println("Followers:")
+	log.Println("Followers:", len(followers))
 	for _, follower := range followers {
 		log.Println(follower.GetLogin())
 	}
@@ -84,7 +84,7 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	log.Println("Following:")
+	log.Println("Following:", len(following))
 	for _, following := range following {
 		log.Println(following.GetLogin())
 	}
