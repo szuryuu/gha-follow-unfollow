@@ -69,6 +69,14 @@ func (gc *GithubClient) GetAllFollowing(ctx context.Context, username string) ([
 }
 
 func main() {
+	file, err := os.Create("log.txt")
+	if err != nil {
+		log.Fatalf("Failed to create log file: %v", err)
+	}
+	defer file.Close()
+
+	log.SetOutput(file)
+
 	ctx := context.Background()
 	client := NewGithubClient()
 
