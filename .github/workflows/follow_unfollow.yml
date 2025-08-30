@@ -30,7 +30,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add log.txt
-          git diff --staged --quiet || git commit -m "Update followers/following log - $(date '+%Y-%m-%d %H:%M:%S')"
+          git diff --staged --quiet || git commit -m "log $(date '+%Y-%m-%d')"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
