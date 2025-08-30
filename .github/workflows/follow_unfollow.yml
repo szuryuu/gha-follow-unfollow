@@ -1,7 +1,10 @@
 on:
+  schedule:
+    - cron: "0 17 * * *"
   push:
     branches:
       - main
+  workflow_dispatch:
 jobs:
   follow_unfollow:
     runs-on: ubuntu-latest
