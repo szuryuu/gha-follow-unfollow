@@ -52,7 +52,7 @@ Add the required secrets to your repository:
 1. Open `main.go` in your repository
 2. Change the username on line 13:
    ```go
-   const githubUsername = "your-github-username"  // Replace with your username
+   githubUsername = "your-github-username"  // Replace with your username
    ```
 3. Commit the changes:
    ```bash
