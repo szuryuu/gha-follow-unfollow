@@ -1,8 +1,5 @@
 # Go GitHub Follow/Unfollow Bot
 
-[![Go Build](https://github.com/szuryuu/gha-follow-unfollow/actions/workflows/follow_unfollow.yml/badge.svg)](https://github.com/szuryuu/gha-follow-unfollow/actions/workflows/follow_unfollow.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A GitHub Action, written in Go, that automates managing your followers. It can unfollow users who don't follow you back and follow back users who have recently followed you.
 
 ## Features
