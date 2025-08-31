@@ -9,9 +9,9 @@ A GitHub Action, written in Go, that automates managing your followers. It can u
 
 -   **Unfollow Automation**: Automatically unfollows users who are not following you back.
 -   **Follow Back Automation**: Automatically follows back any new followers.
-<!---   **Safe List**: A configurable list of users who will never be unfollowed.-->
 -   **Scheduled & Manual Execution**: Runs on a daily schedule but can also be triggered manually.
 -   **Pure Go Implementation**: No external dependencies besides the official Go GitHub client.
+<!---   **Safe List**: A configurable list of users who will never be unfollowed.-->
 
 ## How to Use This Template
 
