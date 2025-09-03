@@ -12,7 +12,7 @@ import (
 
 const (
 	githubUsername = "szuryuu"
-	limit          = 50
+	limit          = 25
 )
 
 type GithubClient struct {
