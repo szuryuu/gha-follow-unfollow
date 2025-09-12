@@ -1,18 +1,30 @@
-2025/09/11 17:12:36 ==========================================
-2025/09/11 17:12:36 GitHub Follow/Unfollow Bot - 2025-09-11 17:12:36
-2025/09/11 17:12:36 ==========================================
-2025/09/11 17:12:36 Total Followers: 162
-2025/09/11 17:12:36 Total Following: 161
-2025/09/11 17:12:36 Need to follow back: 1
-2025/09/11 17:12:36 Need to unfollow: 0
-2025/09/11 17:12:36 ------------------------------------------
-2025/09/11 17:12:36 Need to follow back (followers you don't follow): 1
-2025/09/11 17:12:36 bookofvengeance
-2025/09/11 17:12:36 ------------------------------------------
-2025/09/11 17:12:36 Need to unfollow (following you don't follow back): 0
-2025/09/11 17:12:36 ------------------------------------------
-2025/09/11 17:12:36 Following back: bookofvengeance
-2025/09/11 17:12:40 ------------------------------------------
-Generated on: Thu Sep 11 17:12:40 UTC 2025
+2025/09/12 05:13:39 ==========================================
+2025/09/12 05:13:39 GitHub Follow/Unfollow Bot - 2025-09-12 05:13:39
+2025/09/12 05:13:39 ==========================================
+2025/09/12 05:13:40 Total Followers: 162
+2025/09/12 05:13:40 Total Following: 167
+2025/09/12 05:13:40 Need to follow back: 1
+2025/09/12 05:13:40 Need to unfollow: 6
+2025/09/12 05:13:40 ------------------------------------------
+2025/09/12 05:13:40 Need to follow back (followers you don't follow): 1
+2025/09/12 05:13:40 bookofvengeance
+2025/09/12 05:13:40 ------------------------------------------
+2025/09/12 05:13:40 Need to unfollow (following you don't follow back): 6
+2025/09/12 05:13:40 dwin-gharibi
+2025/09/12 05:13:40 safin4
+2025/09/12 05:13:40 krkaynan
+2025/09/12 05:13:40 rodrigolyrio
+2025/09/12 05:13:40 abolfazl-shadrouh
+2025/09/12 05:13:40 sharaneduard8
+2025/09/12 05:13:40 ------------------------------------------
+2025/09/12 05:13:40 Following back: bookofvengeance
+2025/09/12 05:13:42 ------------------------------------------
+2025/09/12 05:13:42 Unfollowing: dwin-gharibi
+2025/09/12 05:13:45 Unfollowing: safin4
+2025/09/12 05:13:47 Unfollowing: krkaynan
+2025/09/12 05:13:49 Unfollowing: rodrigolyrio
+2025/09/12 05:13:51 Unfollowing: abolfazl-shadrouh
+2025/09/12 05:13:53 Unfollowing: sharaneduard8
+Generated on: Fri Sep 12 05:13:56 UTC 2025
 Repository: szuryuu/gha-follow-unfollow
-Commit: f23eeb9a47f3df38d1701f4d6b35089291201fd3
+Commit: 9a4c7a2d29f2c6727773167f71d39a7ed1f7f268
