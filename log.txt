@@ -1,28 +1,22 @@
-2025/09/16 17:13:20 ==========================================
-2025/09/16 17:13:20 GitHub Follow/Unfollow Bot - 2025-09-16 17:13:20
-2025/09/16 17:13:20 ==========================================
-2025/09/16 17:13:21 Total Followers: 170
-2025/09/16 17:13:21 Total Following: 172
-2025/09/16 17:13:21 Need to follow back: 2
-2025/09/16 17:13:21 Need to unfollow: 4
-2025/09/16 17:13:21 ------------------------------------------
-2025/09/16 17:13:21 Need to follow back (followers you don't follow): 2
-2025/09/16 17:13:21 bookofvengeance
-2025/09/16 17:13:21 sphinxzerd
-2025/09/16 17:13:21 ------------------------------------------
-2025/09/16 17:13:21 Need to unfollow (following you don't follow back): 4
-2025/09/16 17:13:21 maximilianwulf
-2025/09/16 17:13:21 YoshuaNava
-2025/09/16 17:13:21 MufidJK
-2025/09/16 17:13:21 0xStabby
-2025/09/16 17:13:21 ------------------------------------------
-2025/09/16 17:13:21 Following back: bookofvengeance
-2025/09/16 17:13:23 Following back: sphinxzerd
-2025/09/16 17:13:25 ------------------------------------------
-2025/09/16 17:13:25 Unfollowing: maximilianwulf
-2025/09/16 17:13:28 Unfollowing: YoshuaNava
-2025/09/16 17:13:30 Unfollowing: MufidJK
-2025/09/16 17:13:32 Unfollowing: 0xStabby
-Generated on: Tue Sep 16 17:13:34 UTC 2025
+2025/09/17 05:14:02 ==========================================
+2025/09/17 05:14:02 GitHub Follow/Unfollow Bot - 2025-09-17 05:14:02
+2025/09/17 05:14:02 ==========================================
+2025/09/17 05:14:02 Total Followers: 169
+2025/09/17 05:14:02 Total Following: 168
+2025/09/17 05:14:02 Need to follow back: 2
+2025/09/17 05:14:02 Need to unfollow: 1
+2025/09/17 05:14:02 ------------------------------------------
+2025/09/17 05:14:02 Need to follow back (followers you don't follow): 2
+2025/09/17 05:14:02 bookofvengeance
+2025/09/17 05:14:02 sphinxzerd
+2025/09/17 05:14:02 ------------------------------------------
+2025/09/17 05:14:02 Need to unfollow (following you don't follow back): 1
+2025/09/17 05:14:02 dopaemon
+2025/09/17 05:14:02 ------------------------------------------
+2025/09/17 05:14:02 Following back: bookofvengeance
+2025/09/17 05:14:04 Following back: sphinxzerd
+2025/09/17 05:14:06 ------------------------------------------
+2025/09/17 05:14:06 Unfollowing: dopaemon
+Generated on: Wed Sep 17 05:14:09 UTC 2025
 Repository: szuryuu/gha-follow-unfollow
-Commit: d8faac4b09afb3eeb2720217ced57e565a44acab
+Commit: 1218b5a35cf6a78dee8c45819597a165ab5f35e1
