@@ -1,20 +1,26 @@
-2025/09/29 05:15:17 ==========================================
-2025/09/29 05:15:17 GitHub Follow/Unfollow Bot - 2025-09-29 05:15:17
-2025/09/29 05:15:17 ==========================================
-2025/09/29 05:15:17 Total Followers: 182
-2025/09/29 05:15:17 Total Following: 180
-2025/09/29 05:15:17 Need to follow back: 2
-2025/09/29 05:15:17 Need to unfollow: 0
-2025/09/29 05:15:17 ------------------------------------------
-2025/09/29 05:15:17 Need to follow back (followers you don't follow): 2
-2025/09/29 05:15:17 bookofvengeance
-2025/09/29 05:15:17 sphinxzerd
-2025/09/29 05:15:17 ------------------------------------------
-2025/09/29 05:15:17 Need to unfollow (following you don't follow back): 0
-2025/09/29 05:15:17 ------------------------------------------
-2025/09/29 05:15:17 Following back: bookofvengeance
-2025/09/29 05:15:21 Following back: sphinxzerd
-2025/09/29 05:15:25 ------------------------------------------
-Generated on: Mon Sep 29 05:15:25 UTC 2025
+2025/09/29 17:13:48 ==========================================
+2025/09/29 17:13:48 GitHub Follow/Unfollow Bot - 2025-09-29 17:13:48
+2025/09/29 17:13:48 ==========================================
+2025/09/29 17:13:48 Total Followers: 184
+2025/09/29 17:13:48 Total Following: 179
+2025/09/29 17:13:48 Need to follow back: 5
+2025/09/29 17:13:48 Need to unfollow: 0
+2025/09/29 17:13:48 ------------------------------------------
+2025/09/29 17:13:48 Need to follow back (followers you don't follow): 5
+2025/09/29 17:13:48 mist-john
+2025/09/29 17:13:48 ninjabcsolution
+2025/09/29 17:13:48 bookofvengeance
+2025/09/29 17:13:48 sphinxzerd
+2025/09/29 17:13:48 deepadvv
+2025/09/29 17:13:48 ------------------------------------------
+2025/09/29 17:13:48 Need to unfollow (following you don't follow back): 0
+2025/09/29 17:13:48 ------------------------------------------
+2025/09/29 17:13:48 Following back: mist-john
+2025/09/29 17:13:52 Following back: ninjabcsolution
+2025/09/29 17:13:56 Following back: bookofvengeance
+2025/09/29 17:14:00 Following back: sphinxzerd
+2025/09/29 17:14:04 Following back: deepadvv
+2025/09/29 17:14:09 ------------------------------------------
+Generated on: Mon Sep 29 17:14:09 UTC 2025
 Repository: szuryuu/gha-follow-unfollow
-Commit: 196f7eb1d170fe25538b9310fee86df8f760a892
+Commit: a8ade3e26c0e27218fc8c50af030c3b2b68045a3
