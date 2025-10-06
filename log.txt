@@ -1,22 +1,28 @@
-2025/10/06 05:14:31 ==========================================
-2025/10/06 05:14:31 GitHub Follow/Unfollow Bot - 2025-10-06 05:14:31
-2025/10/06 05:14:31 ==========================================
-2025/10/06 05:14:31 Total Followers: 189
-2025/10/06 05:14:31 Total Following: 186
-2025/10/06 05:14:31 Need to follow back: 3
-2025/10/06 05:14:31 Need to unfollow: 0
-2025/10/06 05:14:31 ------------------------------------------
-2025/10/06 05:14:31 Need to follow back (followers you don't follow): 3
-2025/10/06 05:14:31 hosseinhezami
-2025/10/06 05:14:31 bookofvengeance
-2025/10/06 05:14:31 sphinxzerd
-2025/10/06 05:14:31 ------------------------------------------
-2025/10/06 05:14:31 Need to unfollow (following you don't follow back): 0
-2025/10/06 05:14:31 ------------------------------------------
-2025/10/06 05:14:31 Following back: hosseinhezami
-2025/10/06 05:14:34 Following back: bookofvengeance
-2025/10/06 05:14:36 Following back: sphinxzerd
-2025/10/06 05:14:38 ------------------------------------------
-Generated on: Mon Oct  6 05:14:38 UTC 2025
+2025/10/06 17:13:57 ==========================================
+2025/10/06 17:13:57 GitHub Follow/Unfollow Bot - 2025-10-06 17:13:57
+2025/10/06 17:13:57 ==========================================
+2025/10/06 17:13:57 Total Followers: 191
+2025/10/06 17:13:57 Total Following: 187
+2025/10/06 17:13:57 Need to follow back: 5
+2025/10/06 17:13:57 Need to unfollow: 1
+2025/10/06 17:13:57 ------------------------------------------
+2025/10/06 17:13:57 Need to follow back (followers you don't follow): 5
+2025/10/06 17:13:57 xtoshi999
+2025/10/06 17:13:57 umogal
+2025/10/06 17:13:57 bookofvengeance
+2025/10/06 17:13:57 sphinxzerd
+2025/10/06 17:13:57 aniket-shah-7
+2025/10/06 17:13:57 ------------------------------------------
+2025/10/06 17:13:57 Need to unfollow (following you don't follow back): 1
+2025/10/06 17:13:57 vladkish
+2025/10/06 17:13:57 ------------------------------------------
+2025/10/06 17:13:57 Following back: xtoshi999
+2025/10/06 17:14:01 Following back: umogal
+2025/10/06 17:14:04 Following back: bookofvengeance
+2025/10/06 17:14:07 Following back: sphinxzerd
+2025/10/06 17:14:10 Following back: aniket-shah-7
+2025/10/06 17:14:13 ------------------------------------------
+2025/10/06 17:14:13 Unfollowing: vladkish
+Generated on: Mon Oct  6 17:14:17 UTC 2025
 Repository: szuryuu/gha-follow-unfollow
-Commit: 77c23b203db839a9e450b086eb92bca940d3398f
+Commit: bc591cfe7089700c212c56b15152fd73a40defe1
