@@ -1,24 +1,28 @@
-2025/12/01 05:23:54 ==========================================
-2025/12/01 05:23:54 GitHub Follow/Unfollow Bot - 2025-12-01 05:23:54
-2025/12/01 05:23:54 ==========================================
-2025/12/01 05:23:55 Total Followers: 209
-2025/12/01 05:23:55 Total Following: 205
-2025/12/01 05:23:55 Need to follow back: 4
-2025/12/01 05:23:55 Need to unfollow: 0
-2025/12/01 05:23:55 ------------------------------------------
-2025/12/01 05:23:55 Need to follow back (followers you don't follow): 4
-2025/12/01 05:23:55 ZEM-MOOK
-2025/12/01 05:23:55 bookofvengeance
-2025/12/01 05:23:55 sphinxzerd
-2025/12/01 05:23:55 mrwhite4939
-2025/12/01 05:23:55 ------------------------------------------
-2025/12/01 05:23:55 Need to unfollow (following you don't follow back): 0
-2025/12/01 05:23:55 ------------------------------------------
-2025/12/01 05:23:55 Following back: ZEM-MOOK
-2025/12/01 05:23:58 Following back: bookofvengeance
-2025/12/01 05:24:01 Following back: sphinxzerd
-2025/12/01 05:24:04 Following back: mrwhite4939
-2025/12/01 05:24:08 ------------------------------------------
-Generated on: Mon Dec  1 05:24:08 UTC 2025
+2025/12/01 17:18:02 ==========================================
+2025/12/01 17:18:02 GitHub Follow/Unfollow Bot - 2025-12-01 17:18:02
+2025/12/01 17:18:02 ==========================================
+2025/12/01 17:18:03 Total Followers: 210
+2025/12/01 17:18:03 Total Following: 206
+2025/12/01 17:18:03 Need to follow back: 5
+2025/12/01 17:18:03 Need to unfollow: 1
+2025/12/01 17:18:03 ------------------------------------------
+2025/12/01 17:18:03 Need to follow back (followers you don't follow): 5
+2025/12/01 17:18:03 codejoetheduke
+2025/12/01 17:18:03 ZEM-MOOK
+2025/12/01 17:18:03 admiralcarry-byte
+2025/12/01 17:18:03 bookofvengeance
+2025/12/01 17:18:03 sphinxzerd
+2025/12/01 17:18:03 ------------------------------------------
+2025/12/01 17:18:03 Need to unfollow (following you don't follow back): 1
+2025/12/01 17:18:03 veloproofy
+2025/12/01 17:18:03 ------------------------------------------
+2025/12/01 17:18:03 Following back: codejoetheduke
+2025/12/01 17:18:06 Following back: ZEM-MOOK
+2025/12/01 17:18:09 Following back: admiralcarry-byte
+2025/12/01 17:18:12 Following back: bookofvengeance
+2025/12/01 17:18:15 Following back: sphinxzerd
+2025/12/01 17:18:18 ------------------------------------------
+2025/12/01 17:18:18 Unfollowing: veloproofy
+Generated on: Mon Dec  1 17:18:21 UTC 2025
 Repository: szuryuu/gha-follow-unfollow
-Commit: 83b5d15bab44726b4fc4a3aa7b5e53957b5ee0d4
+Commit: 13eaa775aeeacc1abab686c36f653a3e1c18bf93
