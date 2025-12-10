@@ -1,26 +1,28 @@
-2025/12/09 17:16:51 ==========================================
-2025/12/09 17:16:51 GitHub Follow/Unfollow Bot - 2025-12-09 17:16:51
-2025/12/09 17:16:51 ==========================================
-2025/12/09 17:16:52 Total Followers: 214
-2025/12/09 17:16:52 Total Following: 209
-2025/12/09 17:16:52 Need to follow back: 5
-2025/12/09 17:16:52 Need to unfollow: 0
-2025/12/09 17:16:52 ------------------------------------------
-2025/12/09 17:16:52 Need to follow back (followers you don't follow): 5
-2025/12/09 17:16:52 frieren-mage
-2025/12/09 17:16:52 kasanetetoo
-2025/12/09 17:16:52 ZEM-MOOK
-2025/12/09 17:16:52 bookofvengeance
-2025/12/09 17:16:52 sphinxzerd
-2025/12/09 17:16:52 ------------------------------------------
-2025/12/09 17:16:52 Need to unfollow (following you don't follow back): 0
-2025/12/09 17:16:52 ------------------------------------------
-2025/12/09 17:16:52 Following back: frieren-mage
-2025/12/09 17:16:56 Following back: kasanetetoo
-2025/12/09 17:17:01 Following back: ZEM-MOOK
-2025/12/09 17:17:05 Following back: bookofvengeance
-2025/12/09 17:17:09 Following back: sphinxzerd
-2025/12/09 17:17:13 ------------------------------------------
-Generated on: Tue Dec  9 17:17:13 UTC 2025
+2025/12/10 05:17:04 ==========================================
+2025/12/10 05:17:04 GitHub Follow/Unfollow Bot - 2025-12-10 05:17:04
+2025/12/10 05:17:04 ==========================================
+2025/12/10 05:17:06 Total Followers: 215
+2025/12/10 05:17:06 Total Following: 211
+2025/12/10 05:17:06 Need to follow back: 5
+2025/12/10 05:17:06 Need to unfollow: 1
+2025/12/10 05:17:06 ------------------------------------------
+2025/12/10 05:17:06 Need to follow back (followers you don't follow): 5
+2025/12/10 05:17:06 CodewithShahriar
+2025/12/10 05:17:06 hamidukarimi
+2025/12/10 05:17:06 ZEM-MOOK
+2025/12/10 05:17:06 bookofvengeance
+2025/12/10 05:17:06 sphinxzerd
+2025/12/10 05:17:06 ------------------------------------------
+2025/12/10 05:17:06 Need to unfollow (following you don't follow back): 1
+2025/12/10 05:17:06 frieren-mage
+2025/12/10 05:17:06 ------------------------------------------
+2025/12/10 05:17:06 Following back: CodewithShahriar
+2025/12/10 05:17:10 Following back: hamidukarimi
+2025/12/10 05:17:14 Following back: ZEM-MOOK
+2025/12/10 05:17:18 Following back: bookofvengeance
+2025/12/10 05:17:22 Following back: sphinxzerd
+2025/12/10 05:17:27 ------------------------------------------
+2025/12/10 05:17:27 Unfollowing: frieren-mage
+Generated on: Wed Dec 10 05:17:31 UTC 2025
 Repository: szuryuu/gha-follow-unfollow
-Commit: f3927828f3ad4c35359b66cde65d03fad53b0161
+Commit: 2ea1e99c31deccddfc3e5c93d3d4197c27840e46
