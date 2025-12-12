@@ -1,22 +1,26 @@
-2025/12/12 05:16:49 ==========================================
-2025/12/12 05:16:49 GitHub Follow/Unfollow Bot - 2025-12-12 05:16:49
-2025/12/12 05:16:49 ==========================================
-2025/12/12 05:16:49 Total Followers: 219
-2025/12/12 05:16:49 Total Following: 216
-2025/12/12 05:16:49 Need to follow back: 3
-2025/12/12 05:16:49 Need to unfollow: 0
-2025/12/12 05:16:49 ------------------------------------------
-2025/12/12 05:16:49 Need to follow back (followers you don't follow): 3
-2025/12/12 05:16:49 bouiboy
-2025/12/12 05:16:49 bookofvengeance
-2025/12/12 05:16:49 sphinxzerd
-2025/12/12 05:16:49 ------------------------------------------
-2025/12/12 05:16:49 Need to unfollow (following you don't follow back): 0
-2025/12/12 05:16:49 ------------------------------------------
-2025/12/12 05:16:49 Following back: bouiboy
-2025/12/12 05:16:51 Following back: bookofvengeance
-2025/12/12 05:16:53 Following back: sphinxzerd
-2025/12/12 05:16:55 ------------------------------------------
-Generated on: Fri Dec 12 05:16:56 UTC 2025
+2025/12/12 17:16:07 ==========================================
+2025/12/12 17:16:07 GitHub Follow/Unfollow Bot - 2025-12-12 17:16:07
+2025/12/12 17:16:07 ==========================================
+2025/12/12 17:16:08 Total Followers: 222
+2025/12/12 17:16:08 Total Following: 217
+2025/12/12 17:16:08 Need to follow back: 5
+2025/12/12 17:16:08 Need to unfollow: 0
+2025/12/12 17:16:08 ------------------------------------------
+2025/12/12 17:16:08 Need to follow back (followers you don't follow): 5
+2025/12/12 17:16:08 alexgman
+2025/12/12 17:16:08 HoussemDhiaEddine19
+2025/12/12 17:16:08 bouiboy
+2025/12/12 17:16:08 bookofvengeance
+2025/12/12 17:16:08 sphinxzerd
+2025/12/12 17:16:08 ------------------------------------------
+2025/12/12 17:16:08 Need to unfollow (following you don't follow back): 0
+2025/12/12 17:16:08 ------------------------------------------
+2025/12/12 17:16:08 Following back: alexgman
+2025/12/12 17:16:11 Following back: HoussemDhiaEddine19
+2025/12/12 17:16:14 Following back: bouiboy
+2025/12/12 17:16:17 Following back: bookofvengeance
+2025/12/12 17:16:20 Following back: sphinxzerd
+2025/12/12 17:16:23 ------------------------------------------
+Generated on: Fri Dec 12 17:16:23 UTC 2025
 Repository: szuryuu/gha-follow-unfollow
-Commit: fde4989f0f3bea00361da2f3b1ad0f43ba512caa
+Commit: 05b32da868ec689c11b133d6dc8769511952f12d
