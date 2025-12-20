@@ -1,22 +1,24 @@
-2025/12/20 05:15:19 ==========================================
-2025/12/20 05:15:19 GitHub Follow/Unfollow Bot - 2025-12-20 05:15:19
-2025/12/20 05:15:19 ==========================================
-2025/12/20 05:15:20 Total Followers: 228
-2025/12/20 05:15:20 Total Following: 225
-2025/12/20 05:15:20 Need to follow back: 3
-2025/12/20 05:15:20 Need to unfollow: 0
-2025/12/20 05:15:20 ------------------------------------------
-2025/12/20 05:15:20 Need to follow back (followers you don't follow): 3
-2025/12/20 05:15:20 bouiboy
-2025/12/20 05:15:20 bookofvengeance
-2025/12/20 05:15:20 sphinxzerd
-2025/12/20 05:15:20 ------------------------------------------
-2025/12/20 05:15:20 Need to unfollow (following you don't follow back): 0
-2025/12/20 05:15:20 ------------------------------------------
-2025/12/20 05:15:20 Following back: bouiboy
-2025/12/20 05:15:24 Following back: bookofvengeance
-2025/12/20 05:15:28 Following back: sphinxzerd
-2025/12/20 05:15:32 ------------------------------------------
-Generated on: Sat Dec 20 05:15:32 UTC 2025
+2025/12/20 17:13:11 ==========================================
+2025/12/20 17:13:11 GitHub Follow/Unfollow Bot - 2025-12-20 17:13:11
+2025/12/20 17:13:11 ==========================================
+2025/12/20 17:13:11 Total Followers: 227
+2025/12/20 17:13:11 Total Following: 225
+2025/12/20 17:13:11 Need to follow back: 3
+2025/12/20 17:13:11 Need to unfollow: 1
+2025/12/20 17:13:11 ------------------------------------------
+2025/12/20 17:13:11 Need to follow back (followers you don't follow): 3
+2025/12/20 17:13:11 bouiboy
+2025/12/20 17:13:11 bookofvengeance
+2025/12/20 17:13:11 sphinxzerd
+2025/12/20 17:13:11 ------------------------------------------
+2025/12/20 17:13:11 Need to unfollow (following you don't follow back): 1
+2025/12/20 17:13:11 yosuke-kuroki
+2025/12/20 17:13:11 ------------------------------------------
+2025/12/20 17:13:11 Following back: bouiboy
+2025/12/20 17:13:14 Following back: bookofvengeance
+2025/12/20 17:13:16 Following back: sphinxzerd
+2025/12/20 17:13:18 ------------------------------------------
+2025/12/20 17:13:18 Unfollowing: yosuke-kuroki
+Generated on: Sat Dec 20 17:13:20 UTC 2025
 Repository: szuryuu/gha-follow-unfollow
-Commit: 15e2a4ad6be3f0cba8abf0c6a49c6189b4191e46
+Commit: 089bff397c2a34bcb793410f3dab8f5a00eac637
