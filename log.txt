@@ -1,28 +1,24 @@
-2025/12/29 05:24:31 ==========================================
-2025/12/29 05:24:31 GitHub Follow/Unfollow Bot - 2025-12-29 05:24:31
-2025/12/29 05:24:31 ==========================================
-2025/12/29 05:24:32 Total Followers: 231
-2025/12/29 05:24:32 Total Following: 227
-2025/12/29 05:24:32 Need to follow back: 5
-2025/12/29 05:24:32 Need to unfollow: 1
-2025/12/29 05:24:32 ------------------------------------------
-2025/12/29 05:24:32 Need to follow back (followers you don't follow): 5
-2025/12/29 05:24:32 brandonsueur
-2025/12/29 05:24:32 hexarch
-2025/12/29 05:24:32 bouiboy
-2025/12/29 05:24:32 bookofvengeance
-2025/12/29 05:24:32 sphinxzerd
-2025/12/29 05:24:32 ------------------------------------------
-2025/12/29 05:24:32 Need to unfollow (following you don't follow back): 1
-2025/12/29 05:24:32 darkhorse00512
-2025/12/29 05:24:32 ------------------------------------------
-2025/12/29 05:24:32 Following back: brandonsueur
-2025/12/29 05:24:34 Following back: hexarch
-2025/12/29 05:24:36 Following back: bouiboy
-2025/12/29 05:24:38 Following back: bookofvengeance
-2025/12/29 05:24:40 Following back: sphinxzerd
-2025/12/29 05:24:42 ------------------------------------------
-2025/12/29 05:24:42 Unfollowing: darkhorse00512
-Generated on: Mon Dec 29 05:24:44 UTC 2025
+2025/12/29 17:15:33 ==========================================
+2025/12/29 17:15:33 GitHub Follow/Unfollow Bot - 2025-12-29 17:15:33
+2025/12/29 17:15:33 ==========================================
+2025/12/29 17:15:33 Total Followers: 232
+2025/12/29 17:15:33 Total Following: 228
+2025/12/29 17:15:33 Need to follow back: 4
+2025/12/29 17:15:33 Need to unfollow: 0
+2025/12/29 17:15:33 ------------------------------------------
+2025/12/29 17:15:33 Need to follow back (followers you don't follow): 4
+2025/12/29 17:15:33 DrParthaMajumder
+2025/12/29 17:15:33 bouiboy
+2025/12/29 17:15:33 bookofvengeance
+2025/12/29 17:15:33 sphinxzerd
+2025/12/29 17:15:33 ------------------------------------------
+2025/12/29 17:15:33 Need to unfollow (following you don't follow back): 0
+2025/12/29 17:15:33 ------------------------------------------
+2025/12/29 17:15:33 Following back: DrParthaMajumder
+2025/12/29 17:15:38 Following back: bouiboy
+2025/12/29 17:15:42 Following back: bookofvengeance
+2025/12/29 17:15:46 Following back: sphinxzerd
+2025/12/29 17:15:50 ------------------------------------------
+Generated on: Mon Dec 29 17:15:50 UTC 2025
 Repository: szuryuu/gha-follow-unfollow
-Commit: 23b62f24bc7d6435c83b8c2cc2cbdb5cf84da18c
+Commit: bfc063d9c89509f738c24c344bff2f2e86da771e
