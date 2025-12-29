@@ -1,22 +1,28 @@
-2025/12/28 17:14:19 ==========================================
-2025/12/28 17:14:19 GitHub Follow/Unfollow Bot - 2025-12-28 17:14:19
-2025/12/28 17:14:19 ==========================================
-2025/12/28 17:14:20 Total Followers: 230
-2025/12/28 17:14:20 Total Following: 227
-2025/12/28 17:14:20 Need to follow back: 3
-2025/12/28 17:14:20 Need to unfollow: 0
-2025/12/28 17:14:20 ------------------------------------------
-2025/12/28 17:14:20 Need to follow back (followers you don't follow): 3
-2025/12/28 17:14:20 bouiboy
-2025/12/28 17:14:20 bookofvengeance
-2025/12/28 17:14:20 sphinxzerd
-2025/12/28 17:14:20 ------------------------------------------
-2025/12/28 17:14:20 Need to unfollow (following you don't follow back): 0
-2025/12/28 17:14:20 ------------------------------------------
-2025/12/28 17:14:20 Following back: bouiboy
-2025/12/28 17:14:23 Following back: bookofvengeance
-2025/12/28 17:14:26 Following back: sphinxzerd
-2025/12/28 17:14:29 ------------------------------------------
-Generated on: Sun Dec 28 17:14:29 UTC 2025
+2025/12/29 05:24:31 ==========================================
+2025/12/29 05:24:31 GitHub Follow/Unfollow Bot - 2025-12-29 05:24:31
+2025/12/29 05:24:31 ==========================================
+2025/12/29 05:24:32 Total Followers: 231
+2025/12/29 05:24:32 Total Following: 227
+2025/12/29 05:24:32 Need to follow back: 5
+2025/12/29 05:24:32 Need to unfollow: 1
+2025/12/29 05:24:32 ------------------------------------------
+2025/12/29 05:24:32 Need to follow back (followers you don't follow): 5
+2025/12/29 05:24:32 brandonsueur
+2025/12/29 05:24:32 hexarch
+2025/12/29 05:24:32 bouiboy
+2025/12/29 05:24:32 bookofvengeance
+2025/12/29 05:24:32 sphinxzerd
+2025/12/29 05:24:32 ------------------------------------------
+2025/12/29 05:24:32 Need to unfollow (following you don't follow back): 1
+2025/12/29 05:24:32 darkhorse00512
+2025/12/29 05:24:32 ------------------------------------------
+2025/12/29 05:24:32 Following back: brandonsueur
+2025/12/29 05:24:34 Following back: hexarch
+2025/12/29 05:24:36 Following back: bouiboy
+2025/12/29 05:24:38 Following back: bookofvengeance
+2025/12/29 05:24:40 Following back: sphinxzerd
+2025/12/29 05:24:42 ------------------------------------------
+2025/12/29 05:24:42 Unfollowing: darkhorse00512
+Generated on: Mon Dec 29 05:24:44 UTC 2025
 Repository: szuryuu/gha-follow-unfollow
-Commit: 67d8f2d5ebb67d976afd0cf942b60af86204c446
+Commit: 23b62f24bc7d6435c83b8c2cc2cbdb5cf84da18c
