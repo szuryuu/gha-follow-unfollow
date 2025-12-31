@@ -1,22 +1,26 @@
-2025/12/31 05:22:53 ==========================================
-2025/12/31 05:22:53 GitHub Follow/Unfollow Bot - 2025-12-31 05:22:53
-2025/12/31 05:22:53 ==========================================
-2025/12/31 05:22:54 Total Followers: 233
-2025/12/31 05:22:54 Total Following: 230
-2025/12/31 05:22:54 Need to follow back: 3
-2025/12/31 05:22:54 Need to unfollow: 0
-2025/12/31 05:22:54 ------------------------------------------
-2025/12/31 05:22:54 Need to follow back (followers you don't follow): 3
-2025/12/31 05:22:54 bouiboy
-2025/12/31 05:22:54 bookofvengeance
-2025/12/31 05:22:54 sphinxzerd
-2025/12/31 05:22:54 ------------------------------------------
-2025/12/31 05:22:54 Need to unfollow (following you don't follow back): 0
-2025/12/31 05:22:54 ------------------------------------------
-2025/12/31 05:22:54 Following back: bouiboy
-2025/12/31 05:22:56 Following back: bookofvengeance
-2025/12/31 05:22:58 Following back: sphinxzerd
-2025/12/31 05:23:00 ------------------------------------------
-Generated on: Wed Dec 31 05:23:00 UTC 2025
+2025/12/31 17:14:43 ==========================================
+2025/12/31 17:14:43 GitHub Follow/Unfollow Bot - 2025-12-31 17:14:43
+2025/12/31 17:14:43 ==========================================
+2025/12/31 17:14:44 Total Followers: 233
+2025/12/31 17:14:44 Total Following: 230
+2025/12/31 17:14:44 Need to follow back: 4
+2025/12/31 17:14:44 Need to unfollow: 1
+2025/12/31 17:14:44 ------------------------------------------
+2025/12/31 17:14:44 Need to follow back (followers you don't follow): 4
+2025/12/31 17:14:44 bouiboy
+2025/12/31 17:14:44 bookofvengeance
+2025/12/31 17:14:44 sphinxzerd
+2025/12/31 17:14:44 anshull-rajput
+2025/12/31 17:14:44 ------------------------------------------
+2025/12/31 17:14:44 Need to unfollow (following you don't follow back): 1
+2025/12/31 17:14:44 Mohsen-malekifard
+2025/12/31 17:14:44 ------------------------------------------
+2025/12/31 17:14:44 Following back: bouiboy
+2025/12/31 17:14:47 Following back: bookofvengeance
+2025/12/31 17:14:50 Following back: sphinxzerd
+2025/12/31 17:14:53 Following back: anshull-rajput
+2025/12/31 17:14:56 ------------------------------------------
+2025/12/31 17:14:56 Unfollowing: Mohsen-malekifard
+Generated on: Wed Dec 31 17:14:59 UTC 2025
 Repository: szuryuu/gha-follow-unfollow
-Commit: 1b89e4503813d85290a0cc49904fe2a0bc222d4f
+Commit: aa289cb0b91f8d9b073cebf0117d2bd9e32fb470
