@@ -1,36 +1,24 @@
-2026/01/06 05:20:41 ==========================================
-2026/01/06 05:20:41 GitHub Follow/Unfollow Bot - 2026-01-06 05:20:41
-2026/01/06 05:20:41 ==========================================
-2026/01/06 05:20:42 Total Followers: 232
-2026/01/06 05:20:42 Total Following: 232
-2026/01/06 05:20:42 Need to follow back: 5
-2026/01/06 05:20:42 Need to unfollow: 5
-2026/01/06 05:20:42 ------------------------------------------
-2026/01/06 05:20:42 Need to follow back (followers you don't follow): 5
-2026/01/06 05:20:42 helallao
-2026/01/06 05:20:42 seckinyasar
-2026/01/06 05:20:42 bouiboy
-2026/01/06 05:20:42 bookofvengeance
-2026/01/06 05:20:42 sphinxzerd
-2026/01/06 05:20:42 ------------------------------------------
-2026/01/06 05:20:42 Need to unfollow (following you don't follow back): 5
-2026/01/06 05:20:42 brandonsueur
-2026/01/06 05:20:42 GabrielGuedess
-2026/01/06 05:20:42 Frankiwi20
-2026/01/06 05:20:42 GabrielFogo
-2026/01/06 05:20:42 Lupleg-dev
-2026/01/06 05:20:42 ------------------------------------------
-2026/01/06 05:20:42 Following back: helallao
-2026/01/06 05:20:44 Following back: seckinyasar
-2026/01/06 05:20:46 Following back: bouiboy
-2026/01/06 05:20:48 Following back: bookofvengeance
-2026/01/06 05:20:50 Following back: sphinxzerd
-2026/01/06 05:20:52 ------------------------------------------
-2026/01/06 05:20:52 Unfollowing: brandonsueur
-2026/01/06 05:20:54 Unfollowing: GabrielGuedess
-2026/01/06 05:20:56 Unfollowing: Frankiwi20
-2026/01/06 05:20:59 Unfollowing: GabrielFogo
-2026/01/06 05:21:01 Unfollowing: Lupleg-dev
-Generated on: Tue Jan  6 05:21:03 UTC 2026
+2026/01/06 17:20:08 ==========================================
+2026/01/06 17:20:08 GitHub Follow/Unfollow Bot - 2026-01-06 17:20:08
+2026/01/06 17:20:08 ==========================================
+2026/01/06 17:20:09 Total Followers: 233
+2026/01/06 17:20:09 Total Following: 229
+2026/01/06 17:20:09 Need to follow back: 4
+2026/01/06 17:20:09 Need to unfollow: 0
+2026/01/06 17:20:09 ------------------------------------------
+2026/01/06 17:20:09 Need to follow back (followers you don't follow): 4
+2026/01/06 17:20:09 MojiWasp
+2026/01/06 17:20:09 bouiboy
+2026/01/06 17:20:09 bookofvengeance
+2026/01/06 17:20:09 sphinxzerd
+2026/01/06 17:20:09 ------------------------------------------
+2026/01/06 17:20:09 Need to unfollow (following you don't follow back): 0
+2026/01/06 17:20:09 ------------------------------------------
+2026/01/06 17:20:09 Following back: MojiWasp
+2026/01/06 17:20:12 Following back: bouiboy
+2026/01/06 17:20:15 Following back: bookofvengeance
+2026/01/06 17:20:18 Following back: sphinxzerd
+2026/01/06 17:20:21 ------------------------------------------
+Generated on: Tue Jan  6 17:20:21 UTC 2026
 Repository: szuryuu/gha-follow-unfollow
-Commit: 9e3db2d89de9832e1d90f55c58852c292e656017
+Commit: 077a18ef510e99ca54b76e1633ed46933ccec1bd
