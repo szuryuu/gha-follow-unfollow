@@ -1,26 +1,24 @@
-2026/01/09 05:21:00 ==========================================
-2026/01/09 05:21:00 GitHub Follow/Unfollow Bot - 2026-01-09 05:21:00
-2026/01/09 05:21:00 ==========================================
-2026/01/09 05:21:02 Total Followers: 235
-2026/01/09 05:21:02 Total Following: 230
-2026/01/09 05:21:02 Need to follow back: 5
-2026/01/09 05:21:02 Need to unfollow: 0
-2026/01/09 05:21:02 ------------------------------------------
-2026/01/09 05:21:02 Need to follow back (followers you don't follow): 5
-2026/01/09 05:21:02 DuncanDPS
-2026/01/09 05:21:02 hamza-berahma
-2026/01/09 05:21:02 bouiboy
-2026/01/09 05:21:02 bookofvengeance
-2026/01/09 05:21:02 sphinxzerd
-2026/01/09 05:21:02 ------------------------------------------
-2026/01/09 05:21:02 Need to unfollow (following you don't follow back): 0
-2026/01/09 05:21:02 ------------------------------------------
-2026/01/09 05:21:02 Following back: DuncanDPS
-2026/01/09 05:21:04 Following back: hamza-berahma
-2026/01/09 05:21:06 Following back: bouiboy
-2026/01/09 05:21:08 Following back: bookofvengeance
-2026/01/09 05:21:10 Following back: sphinxzerd
-2026/01/09 05:21:12 ------------------------------------------
-Generated on: Fri Jan  9 05:21:12 UTC 2026
+2026/01/09 17:20:04 ==========================================
+2026/01/09 17:20:04 GitHub Follow/Unfollow Bot - 2026-01-09 17:20:04
+2026/01/09 17:20:04 ==========================================
+2026/01/09 17:20:05 Total Followers: 233
+2026/01/09 17:20:05 Total Following: 231
+2026/01/09 17:20:05 Need to follow back: 3
+2026/01/09 17:20:05 Need to unfollow: 1
+2026/01/09 17:20:05 ------------------------------------------
+2026/01/09 17:20:05 Need to follow back (followers you don't follow): 3
+2026/01/09 17:20:05 bouiboy
+2026/01/09 17:20:05 bookofvengeance
+2026/01/09 17:20:05 sphinxzerd
+2026/01/09 17:20:05 ------------------------------------------
+2026/01/09 17:20:05 Need to unfollow (following you don't follow back): 1
+2026/01/09 17:20:05 nfterrax
+2026/01/09 17:20:05 ------------------------------------------
+2026/01/09 17:20:05 Following back: bouiboy
+2026/01/09 17:20:08 Following back: bookofvengeance
+2026/01/09 17:20:10 Following back: sphinxzerd
+2026/01/09 17:20:12 ------------------------------------------
+2026/01/09 17:20:12 Unfollowing: nfterrax
+Generated on: Fri Jan  9 17:20:14 UTC 2026
 Repository: szuryuu/gha-follow-unfollow
-Commit: 9e7e09e3f112d8f7667edd5a29eab2c4fbe6d393
+Commit: 8f8f6d28263827007c9abff6d7f65e3f2ee4f9e7
