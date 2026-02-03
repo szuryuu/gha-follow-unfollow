@@ -2,12 +2,18 @@
 
 A GitHub Action, written in Go, that automates managing your followers. It can unfollow users who don't follow you back and follow back users who have recently followed you.
 
+---
+
 ## Features
 
--   **Unfollow Automation**: Automatically unfollows users who are not following you back.
--   **Follow Back Automation**: Automatically follows back any new followers.
--   **Scheduled & Manual Execution**: Runs on a daily schedule but can also be triggered manually.
--   **Pure Go Implementation**: No external dependencies besides the official Go GitHub client.
+-   **Unfollow Automation**   
+    Automatically unfollows users who are not following you back.
+-   **Follow Back Automation**  
+    Automatically follows back any new followers.
+-   **Scheduled & Manual Execution**  
+    Runs on a daily schedule but can also be triggered manually.
+-   **Pure Go Implementation**  
+    No external dependencies besides the official Go GitHub client.
 <!---   **Safe List**: A configurable list of users who will never be unfollowed.-->
 
 ## How to Use This Template
@@ -60,8 +66,10 @@ Add the required secrets to your repository:
 
 ## Running the Action
 
--   **Automatic Schedule**: The action is configured to run automatically every day.
--   **Manual Trigger**: You can run it manually at any time by going to the **Actions** tab in your repository, selecting **"Follow Unfollow Bot"** from the sidebar, and clicking the **"Run workflow"** button.
+-   **Automatic Schedule**  
+    The action is configured to run automatically every day.
+-   **Manual Trigger**  
+    You can run it manually at any time by going to the **Actions** tab in your repository, selecting **"Follow Unfollow Bot"** from the sidebar, and clicking the **"Run workflow"** button.
 
 ## License
 
