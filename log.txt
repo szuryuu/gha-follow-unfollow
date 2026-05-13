@@ -1,38 +1,40 @@
-2026/05/12 23:59:46 ==========================================
-2026/05/12 23:59:46 GitHub Follow/Unfollow Bot - 2026-05-12 23:59:46
-2026/05/12 23:59:46 ==========================================
-2026/05/12 23:59:47 Total Followers: 338
-2026/05/12 23:59:47 Total Following: 327
-2026/05/12 23:59:47 Need to follow back: 11
-2026/05/12 23:59:47 Need to unfollow: 0
-2026/05/12 23:59:47 ------------------------------------------
-2026/05/12 23:59:47 Need to follow back (followers you don't follow): 11
-2026/05/12 23:59:47 dovas-net
-2026/05/12 23:59:47 pawerrx
-2026/05/12 23:59:47 D0NQUlX0TE
-2026/05/12 23:59:47 3xtroy
-2026/05/12 23:59:47 ZEM00K
-2026/05/12 23:59:47 REIJISAKAMAKI
-2026/05/12 23:59:47 bookofvengeance
-2026/05/12 23:59:47 sphinxzerd
-2026/05/12 23:59:47 DrSYLV3ON
-2026/05/12 23:59:47 BERDLYY
-2026/05/12 23:59:47 l0ve-hate
-2026/05/12 23:59:47 ------------------------------------------
-2026/05/12 23:59:47 Need to unfollow (following you don't follow back): 0
-2026/05/12 23:59:47 ------------------------------------------
-2026/05/12 23:59:47 Following back: dovas-net
-2026/05/12 23:59:49 Following back: pawerrx
-2026/05/12 23:59:51 Following back: D0NQUlX0TE
-2026/05/12 23:59:53 Following back: 3xtroy
-2026/05/12 23:59:56 Following back: ZEM00K
-2026/05/12 23:59:58 Following back: REIJISAKAMAKI
-2026/05/13 00:00:00 Following back: bookofvengeance
-2026/05/13 00:00:02 Following back: sphinxzerd
-2026/05/13 00:00:04 Following back: DrSYLV3ON
-2026/05/13 00:00:06 Following back: BERDLYY
-2026/05/13 00:00:08 Following back: l0ve-hate
-2026/05/13 00:00:10 ------------------------------------------
-Generated on: Wed May 13 00:00:10 UTC 2026
+2026/05/13 13:11:25 ==========================================
+2026/05/13 13:11:25 GitHub Follow/Unfollow Bot - 2026-05-13 13:11:25
+2026/05/13 13:11:25 ==========================================
+2026/05/13 13:11:26 Total Followers: 338
+2026/05/13 13:11:26 Total Following: 328
+2026/05/13 13:11:26 Need to follow back: 11
+2026/05/13 13:11:26 Need to unfollow: 1
+2026/05/13 13:11:26 ------------------------------------------
+2026/05/13 13:11:26 Need to follow back (followers you don't follow): 11
+2026/05/13 13:11:26 pawerrx
+2026/05/13 13:11:26 D0NQUlX0TE
+2026/05/13 13:11:26 3xtroy
+2026/05/13 13:11:26 ZEM00K
+2026/05/13 13:11:26 REIJISAKAMAKI
+2026/05/13 13:11:26 bookofvengeance
+2026/05/13 13:11:26 sphinxzerd
+2026/05/13 13:11:26 DrSYLV3ON
+2026/05/13 13:11:26 BERDLYY
+2026/05/13 13:11:26 l0ve-hate
+2026/05/13 13:11:26 hidariako
+2026/05/13 13:11:26 ------------------------------------------
+2026/05/13 13:11:26 Need to unfollow (following you don't follow back): 1
+2026/05/13 13:11:26 dovas-net
+2026/05/13 13:11:26 ------------------------------------------
+2026/05/13 13:11:26 Following back: pawerrx
+2026/05/13 13:11:29 Following back: D0NQUlX0TE
+2026/05/13 13:11:32 Following back: 3xtroy
+2026/05/13 13:11:36 Following back: ZEM00K
+2026/05/13 13:11:39 Following back: REIJISAKAMAKI
+2026/05/13 13:11:42 Following back: bookofvengeance
+2026/05/13 13:11:45 Following back: sphinxzerd
+2026/05/13 13:11:48 Following back: DrSYLV3ON
+2026/05/13 13:11:51 Following back: BERDLYY
+2026/05/13 13:11:54 Following back: l0ve-hate
+2026/05/13 13:11:58 Following back: hidariako
+2026/05/13 13:12:01 ------------------------------------------
+2026/05/13 13:12:01 Unfollowing: dovas-net
+Generated on: Wed May 13 13:12:04 UTC 2026
 Repository: szuryuu/gha-follow-unfollow
-Commit: 2642f51840fb385da4ad34dd9896c78cab5b793c
+Commit: 5d51c50e6f5bcfd984eda390297176ced8c871fb
