@@ -1,56 +1,52 @@
-2026/08/16 23:18:28 ==========================================
-2026/08/16 23:18:28 GitHub Follow/Unfollow Bot - 2026-08-16 23:18:28
-2026/08/16 23:18:28 ==========================================
-2026/08/16 23:18:30 Total Followers: 404
-2026/08/16 23:18:30 Total Following: 386
-2026/08/16 23:18:30 Need to follow back: 19
-2026/08/16 23:18:30 Need to unfollow: 1
-2026/08/16 23:18:30 ------------------------------------------
-2026/08/16 23:18:30 Need to follow back (followers you don't follow): 19
-2026/08/16 23:18:30 Hordekiller
-2026/08/16 23:18:30 pawerrx
-2026/08/16 23:18:30 D0NQUlX0TE
-2026/08/16 23:18:30 3xtroy
-2026/08/16 23:18:30 drydenmitchell
-2026/08/16 23:18:30 cosmospice
-2026/08/16 23:18:30 REIJISAKAMAKI
-2026/08/16 23:18:30 ShemySUN-ane
-2026/08/16 23:18:30 thehappydictator
-2026/08/16 23:18:30 bookofvengeance
-2026/08/16 23:18:30 sphinxzerd
-2026/08/16 23:18:30 cyanile
-2026/08/16 23:18:30 REVOLV1NG
-2026/08/16 23:18:30 BERDLYY
-2026/08/16 23:18:30 l0ve-hate
-2026/08/16 23:18:30 AngelofDarknessm
-2026/08/16 23:18:30 cchongming
-2026/08/16 23:18:30 shinbartsu
-2026/08/16 23:18:30 journaltraces
-2026/08/16 23:18:30 ------------------------------------------
-2026/08/16 23:18:30 Need to unfollow (following you don't follow back): 1
-2026/08/16 23:18:30 pengvynn
-2026/08/16 23:18:30 ------------------------------------------
-2026/08/16 23:18:30 Following back: Hordekiller
-2026/08/16 23:18:32 Following back: pawerrx
-2026/08/16 23:18:34 Following back: D0NQUlX0TE
-2026/08/16 23:18:36 Following back: 3xtroy
-2026/08/16 23:18:38 Following back: drydenmitchell
-2026/08/16 23:18:40 Following back: cosmospice
-2026/08/16 23:18:42 Following back: REIJISAKAMAKI
-2026/08/16 23:18:44 Following back: ShemySUN-ane
-2026/08/16 23:18:46 Following back: thehappydictator
-2026/08/16 23:18:49 Following back: bookofvengeance
-2026/08/16 23:18:51 Following back: sphinxzerd
-2026/08/16 23:18:53 Following back: cyanile
-2026/08/16 23:18:55 Following back: REVOLV1NG
-2026/08/16 23:18:57 Following back: BERDLYY
-2026/08/16 23:18:59 Following back: l0ve-hate
-2026/08/16 23:19:01 Following back: AngelofDarknessm
-2026/08/16 23:19:03 Following back: cchongming
-2026/08/16 23:19:05 Following back: shinbartsu
-2026/08/16 23:19:07 Following back: journaltraces
-2026/08/16 23:19:10 ------------------------------------------
-2026/08/16 23:19:10 Unfollowing: pengvynn
-Generated on: Sun Aug 16 23:19:12 UTC 2026
+2026/08/17 11:24:41 ==========================================
+2026/08/17 11:24:41 GitHub Follow/Unfollow Bot - 2026-08-17 11:24:41
+2026/08/17 11:24:41 ==========================================
+2026/08/17 11:24:43 Total Followers: 404
+2026/08/17 11:24:43 Total Following: 388
+2026/08/17 11:24:43 Need to follow back: 17
+2026/08/17 11:24:43 Need to unfollow: 1
+2026/08/17 11:24:43 ------------------------------------------
+2026/08/17 11:24:43 Need to follow back (followers you don't follow): 17
+2026/08/17 11:24:43 pawerrx
+2026/08/17 11:24:43 D0NQUlX0TE
+2026/08/17 11:24:43 3xtroy
+2026/08/17 11:24:43 drydenmitchell
+2026/08/17 11:24:43 cosmospice
+2026/08/17 11:24:43 REIJISAKAMAKI
+2026/08/17 11:24:43 ShemySUN-ane
+2026/08/17 11:24:43 thehappydictator
+2026/08/17 11:24:43 bookofvengeance
+2026/08/17 11:24:43 sphinxzerd
+2026/08/17 11:24:43 cyanile
+2026/08/17 11:24:43 REVOLV1NG
+2026/08/17 11:24:43 BERDLYY
+2026/08/17 11:24:43 l0ve-hate
+2026/08/17 11:24:43 AngelofDarknessm
+2026/08/17 11:24:43 cchongming
+2026/08/17 11:24:43 shinbartsu
+2026/08/17 11:24:43 ------------------------------------------
+2026/08/17 11:24:43 Need to unfollow (following you don't follow back): 1
+2026/08/17 11:24:43 KevinWong455
+2026/08/17 11:24:43 ------------------------------------------
+2026/08/17 11:24:43 Following back: pawerrx
+2026/08/17 11:24:45 Following back: D0NQUlX0TE
+2026/08/17 11:24:48 Following back: 3xtroy
+2026/08/17 11:24:50 Following back: drydenmitchell
+2026/08/17 11:24:53 Following back: cosmospice
+2026/08/17 11:24:55 Following back: REIJISAKAMAKI
+2026/08/17 11:24:57 Following back: ShemySUN-ane
+2026/08/17 11:24:59 Following back: thehappydictator
+2026/08/17 11:25:02 Following back: bookofvengeance
+2026/08/17 11:25:04 Following back: sphinxzerd
+2026/08/17 11:25:06 Following back: cyanile
+2026/08/17 11:25:08 Following back: REVOLV1NG
+2026/08/17 11:25:10 Following back: BERDLYY
+2026/08/17 11:25:13 Following back: l0ve-hate
+2026/08/17 11:25:15 Following back: AngelofDarknessm
+2026/08/17 11:25:17 Following back: cchongming
+2026/08/17 11:25:19 Following back: shinbartsu
+2026/08/17 11:25:21 ------------------------------------------
+2026/08/17 11:25:21 Unfollowing: KevinWong455
+Generated on: Mon Aug 17 11:25:24 UTC 2026
 Repository: szuryuu/gha-follow-unfollow
-Commit: be8b4342f45b957b7b8d5c905d2cddcf32bbdbd5
+Commit: 3520bdd4994b03702cf318446aad84c82de57311
